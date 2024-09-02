@@ -52,12 +52,12 @@ this is a test or compiration between HYPER-Express framwork and Express framwor
 ## Test:
 
 - **Express**:
-    - 100 virtual users in 10 seconds  the result is 1000 requests
-    - 250 virtual users in 30 seconds the result is 7500 requests
+    - 100 virtual users in 10 seconds  the result is 13477 requests
+    - 250 virtual users in 30 seconds the result is 30299 requests
 
 - **HYPER-Express**:
-    - 100 virtual users in 10 seconds the result is 1000 requests
-    - 250 virtual users in 30 seconds the result is 7500 requests
+    - 100 virtual users in 10 seconds the result is 15654 requests
+    - 250 virtual users in 30 seconds the result is 39530 requests
 
 
 ## Conclusion:
