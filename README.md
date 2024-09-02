@@ -71,9 +71,9 @@ this is a test or compiration between HYPER-Express framwork and Express framwor
 ## Screenshots:
 
 - **Express**:
-    - ![Express](express.png)
-    - ![Express](express2.png)
+    - ![Express](./screenShoots/express.png)
+    - ![Express](./screenShoots/express2.png)
 
 - **HYPER-Express**:
-    - ![HYPER-Express](hyperexpress.png)
-    - ![HYPER-Express](hyperexpress2.png)
+    - ![HYPER-Express](./screenShoots/hyperexpress.png)
+    - ![HYPER-Express](./screenShoots/hyperexpress2.png)
